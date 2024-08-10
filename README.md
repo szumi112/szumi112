@@ -4,10 +4,17 @@
 ##### About Me 
 Hi 👋 my name is Mateusz Szumiło, but people call me 'Matt'. I am a dedicated Frontend Developer with six years of experience specializing in crafting responsive and engaging web applications. My journey in web development began at a young age, and I have consistently pursued excellence by expanding my skill set across a diverse range of technologies. With a strong foundation in React, TypeScript, and UI/UX principles, I focus on delivering user-centric designs that enhance user experiences.
 
+
+### Skills 💻
+**Frontend**: React, JavaScript, TypeScript, HTML/CSS, Redux, RestAPI, GraphQL <br />
+**Backend**: Node.js, Express.js, MongoDB, Firebase <br />
+**Tools**: Git, Docker, Photoshop <br />
+**DevOps & Project Management**: Linux, Jira, Agile, CI/CD <br />
+**Languages**: Polish (Native, C2), English (Proficient, C2), Russian (A2), Spanish (A1) <br />
 <br />
 <br />
 
-# Professional Experience
+# Professional Experience 🤵
 
 ### Frontend Developer at KCharles (August 2022 – June 2024)
 Technologies: React, Typescript, Redux, RestAPI, Firebase, Code review and Pair programming
@@ -34,12 +41,7 @@ Role: Developed dynamic backend systems with Node.js and MongoDB, and implemente
 
 <br />
 
-### Skills
-Frontend: React, JavaScript, TypeScript, HTML/CSS, Redux, RestAPI, GraphQL
-Backend: Node.js, Express.js, MongoDB, Firebase
-Tools: Git, Docker, Photoshop
-DevOps & Project Management: Linux, Jira, Agile, CI/CD
-Languages: English (Proficient, C2)
+
 
 <!--
 **szumi112/szumi112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
