@@ -14,32 +14,6 @@ Hi 👋 my name is Mateusz Szumiło, but people call me 'Matt'. I am a dedicated
 <br />
 <br />
 
-# Professional Experience 🤵
-
-### Frontend Developer at KCharles (August 2022 – June 2024)
-Technologies: React, Typescript, Redux, RestAPI, Firebase, Code review and Pair programming
-
-Role: Led the development of multiple customer-facing websites, contributing to significant improvements in customer engagement.
-
-Leadership: Served as a tech lead, guiding a team of developers in aligning project deliveries with business goals.
-
-<br />
-<br />
-
-### Frontend Developer at Ziegler (March 2019 – July 2022)
-Technologies: React, TypeScript, Redux, Rest API, PHP 
-
-Role: Built a comprehensive freight shipping platform from scratch, enhancing the company's service offerings and reducing operational costs through automation and efficiency.
-
-<br />
-<br />
-
-### Full Stack Developer at The Standard (January 2018 – January 2019)
-Technologies: React, Typescript, Redux, Node, Express, MongoDB, GraphQL 
-
-Role: Developed dynamic backend systems with Node.js and MongoDB, and implemented real-time updates using WebSockets to improve user interaction. Focused responsive design and data visualization with Chart.js to enhance user understanding and experience. 
-
-<br />
 
 
 
